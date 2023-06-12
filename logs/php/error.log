@@ -1,0 +1,3 @@
+[12-Jun-2023 16:55:17 UTC] PHP Parse error:  syntax error, unexpected identifier "init", expecting ")" in C:\Users\Arseni\Local Sites\fictional-university-new\app\public\wp-content\themes\fictional-university-theme\functions.php on line 27
+[12-Jun-2023 16:55:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Arseni\Local Sites\fictional-university-new\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[12-Jun-2023 16:55:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Arseni\Local Sites\fictional-university-new\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
